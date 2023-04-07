@@ -1,0 +1,1 @@
+https://www.golinuxcloud.com/add-x509-extensions-to-certificate-openssl/#Step-2_Create_openssl_configuration_file
